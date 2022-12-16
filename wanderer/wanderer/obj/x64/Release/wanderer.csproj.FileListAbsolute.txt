@@ -1,0 +1,8 @@
+C:\Users\lab\source\repos\wanderer\wanderer\bin\x64\Release\wanderer.exe.config
+C:\Users\lab\source\repos\wanderer\wanderer\bin\x64\Release\wanderer.exe
+C:\Users\lab\source\repos\wanderer\wanderer\bin\x64\Release\wanderer.pdb
+C:\Users\lab\source\repos\wanderer\wanderer\obj\x64\Release\wanderer.csproj.AssemblyReference.cache
+C:\Users\lab\source\repos\wanderer\wanderer\obj\x64\Release\wanderer.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab\source\repos\wanderer\wanderer\obj\x64\Release\wanderer.csproj.CoreCompileInputs.cache
+C:\Users\lab\source\repos\wanderer\wanderer\obj\x64\Release\wanderer.exe
+C:\Users\lab\source\repos\wanderer\wanderer\obj\x64\Release\wanderer.pdb
